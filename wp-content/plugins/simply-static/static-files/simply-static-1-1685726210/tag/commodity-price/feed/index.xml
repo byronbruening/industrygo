@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>commodity price &#8211; Staging Stetson</title>
+	<atom:link href="https://staging.stetson.com/tag/commodity-price/feed/" rel="self" type="application/rss+xml" />
+	<link>https://staging.stetson.com</link>
+	<description>Welcome And Give Thanks</description>
+	<lastBuildDate>Fri, 02 Jun 2023 17:13:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Food prices hit 2-year low in May: FAO</title>
+		<link>https://staging.stetson.com/2023/06/02/food-prices-hit-2-year-low-in-may-fao/</link>
+					<comments>https://staging.stetson.com/2023/06/02/food-prices-hit-2-year-low-in-may-fao/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 02 Jun 2023 17:13:11 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[commodity price]]></category>
+		<category><![CDATA[foodstuff]]></category>
+		<category><![CDATA[United Nations]]></category>
+		<guid isPermaLink="false">https://staging.stetson.com/?p=15</guid>
+
+					<description><![CDATA[<p>The U.N. Food Organization&#8217;s global food price index fell to a two-year low in May. Because, despite the increase in the price of sugar and [&#8230;]</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The U.N. Food Organization&#8217;s global food price index fell to a two-year low in May. Because, despite the increase in the price of sugar and meat, the prices of vegetable oil, food grains and dairy products have decreased relatively more, and the overall price index is downward.</p>
+
+
+
+<p>The Food and Agriculture Organization of the United Nations (FAO) monitors price fluctuations of the most traded commodity globally. The average food price index in May was 124.3 points compared to last month&#8217;s revised 127.7 points. The index for April was said to be 127.2.</p>
+
+
+
+<p>The score was lowest in May compared to April 2021. That means it&#8217;s now down 22 percent from its all-time high point reached in March 2022 after Russia&#8217;s attack on Ukraine. The global organization has been publishing this index since 1990.</p>
+
+
+
+<p>FAO&#8217;s cereal price index fell by about 5 percent in May from the previous month. Prices were influenced by the prospect of ample supply and the extension of the Black Sea grain contract, opening up opportunities for exports from Ukraine.</p>
+
+
+
+<p>But international rice prices continued to rise in May as some exporting countries tightened supplies, FAO said. The company last month expressed concern over the price hike of this staple product.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://staging.stetson.com/2023/06/02/food-prices-hit-2-year-low-in-may-fao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
